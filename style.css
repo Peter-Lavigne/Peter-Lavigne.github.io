@@ -1,0 +1,21 @@
+header,
+main {
+  margin: 0 auto;
+  max-width: 50em;
+  text-align: center;
+}
+
+body {
+  line-height: 1.5;
+  background: rgb(242, 242, 242);
+  color: #566b78;
+  font-family: "Helvetica", "Arial", sans-serif;
+  -moz-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+  font-weight: 500;
+}
